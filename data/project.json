@@ -1,0 +1,42 @@
+[
+  {
+    "title": "CTO di Pra-Startup Litera Luhur (2024-Sekarang)",
+    "image": "img/lilu.png",
+    "description": "Sebagai CTO di Litera Luhur, sebuah pra-startup inovatif, saya bertanggung jawab penuh dalam menangani pengembangan dan pengelolaan website perusahaan yang berbasis Laravel. Dalam peran ini, saya memimpin strategi teknologi untuk memastikan platform digital kami tidak hanya memenuhi standar industri, tetapi juga memberikan pengalaman pengguna yang optimal."
+  },
+  {
+    "title": "Monitoring Vegetasi Tumbuhan",
+    "image": "img/vegetasi.png",
+    "description": "Saya memiliki pengalaman dalam mengembangkan sistem monitoring vegetasi tumbuhan berbasis Laravel, sebuah framework PHP yang andal dan fleksibel. Proyek ini bertujuan untuk menyediakan platform digital yang memungkinkan pengguna memantau pertumbuhan dan kesehatan vegetasi secara real-time."
+  },
+  {
+    "title": "Monitoring Kapal secara Real Time",
+    "image": "img/monitoringASV.png",
+    "description": "Saya memiliki pengalaman dalam mengembangkan website monitoring kapal Autonomous Surface Vehicle (ASV) berbasis PHP, yang dirancang untuk memantau kondisi kapal secara realtime menggunakan teknologi Internet of Things (IoT). Sistem ini bertujuan untuk memberikan informasi langsung mengenai status kapal ASV, seperti lokasi, kecepatan, arah, dan kondisi sensor lainnya, yang dapat diakses melalui platform berbasis web."
+  },
+  {
+    "title": "MSIB di Google Bangkit",
+    "image": "img/msib.png",
+    "description": "Saya berkesempatan menjadi bagian dari program Merdeka Belajar Kampus Merdeka (MBKM) melalui MSIB (Magang dan Studi Independen Bersertifikat) di bidang Machine Learning yang diselenggarakan oleh Google Bangkit. Program ini memberikan pengalaman belajar mendalam tentang pengembangan solusi berbasis kecerdasan buatan dan pembelajaran mesin, yang relevan dengan kebutuhan industri."
+  },
+  {
+    "title": "Aplikasi Berbasis AI",
+    "image": "img/aplikasi_gigi.png",
+    "description": "Saya memiliki pengalaman dalam mengembangkan aplikasi berbasis Artificial Intelligence (AI) untuk deteksi penyakit pada gigi. Proyek ini bertujuan untuk membantu profesional di bidang kesehatan gigi dalam mendiagnosis kondisi gigi secara lebih cepat dan akurat, serta memberikan rekomendasi perawatan yang tepat."
+  },
+  {
+    "title": "Programmer Tim Autonomous Surface Vehicle (ASV)",
+    "image": "img/bengawan.jpg",
+    "description": "Saya memiliki pengalaman dalam pengembangan perangkat lunak untuk kapal Autonomous Surface Vehicle (ASV), sebuah teknologi otonom yang dirancang untuk operasi di permukaan air. Dalam peran ini, saya bertanggung jawab pada berbagai aspek pemrograman yang mendukung navigasi, kontrol, dan fungsi otonom kapal ASV."
+  },
+  {
+    "title": "Mengembangkan Game Fly-UP",
+    "image": "img/game.png",
+    "description": "Saya mengembangkan sebuah game Fly-Up menggunakan bahasa pemrograman Java, yang kemudian saya unggah di platform Greenfoot untuk mempermudah akses dan berbagi dengan komunitas. Game ini bertujuan untuk memberikan pengalaman interaktif yang menyenangkan dengan konsep permainan yang sederhana namun menantang. Dalam game ini, pemain mengendalikan karakter yang harus terbang ke atas sambil menghindari rintangan dan mengumpulkan poin."
+  },
+  {
+    "title": "Merancang Database berbasis SQL",
+    "image": "img/dbs.png",
+    "description": "Saya memiliki pengalaman dalam pengembangan sistem database peradilan menggunakan SQL Server. Proyek ini bertujuan untuk menyediakan solusi manajemen data yang efisien dan terstruktur untuk mendukung operasional lembaga peradilan, termasuk pengelolaan kasus hukum, data pihak terkait, dan riwayat persidangan."
+  }
+]

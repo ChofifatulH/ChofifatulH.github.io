@@ -218,11 +218,27 @@ body {
 .about .row .about-img {
   flex: 1 1 45rem;
   margin-right: 2rem;
+  filter: drop-shadow(0 20px 40px rgba(0,0,0,0.5));
 }
 
+/* .about .row .about-img img {
+  width: 90%;
+  object-position: center;
+} */
 .about .row .about-img img {
   width: 90%;
   object-position: center;
+  border-radius: 50%;
+  box-shadow:
+    0 20px 40px rgba(0,0,0,0.4);
+    
+  transition: all 0.3s ease;
+  
+}
+.about .row .about-img img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4),
+    0 0 80px rgba(255, 210, 80, 0.5);;
 }
 
 .about .row .content {
@@ -421,6 +437,7 @@ footer .credit a {
     background-color: #fff;
     width: 30rem;
     height: 100vh;
+    transition: 0.3s;
   }
 
   .navbar .navbar_nav.active {
