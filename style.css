@@ -1,6 +1,6 @@
 :root {
-  --primary: #B6895B;
-  --bg: #4F4444;
+  --primary: #b6895b;
+  --bg: #4f4444;
 }
 
 * {
@@ -129,7 +129,6 @@ body {
   color: var(--bg);
 }
 
-
 /* Hero Section */
 .hero {
   min-height: 100vh;
@@ -218,7 +217,7 @@ body {
 .about .row .about-img {
   flex: 1 1 45rem;
   margin-right: 2rem;
-  filter: drop-shadow(0 20px 40px rgba(0,0,0,0.5));
+  filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.5));
 }
 
 /* .about .row .about-img img {
@@ -229,16 +228,15 @@ body {
   width: 90%;
   object-position: center;
   border-radius: 50%;
-  box-shadow:
-    0 20px 40px rgba(0,0,0,0.4);
-    
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+
   transition: all 0.3s ease;
-  
 }
 .about .row .about-img img:hover {
   transform: scale(1.05);
-  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4),
-    0 0 80px rgba(255, 210, 80, 0.5);;
+  box-shadow:
+    0 15px 35px rgba(0, 0, 0, 0.4),
+    0 0 80px rgba(255, 210, 80, 0.5);
 }
 
 .about .row .content {
@@ -261,7 +259,7 @@ body {
 
 /* Product section */
 .portofolio .row,
-.achievement .row{
+.achievement .row {
   display: grid;
   /* flex-wrap: wrap; */
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
@@ -322,7 +320,6 @@ body {
 /* Detail section */
 /* CSS for detail-portofolio section */
 
-
 .detail-portofolio .card {
   background-color: rgba(79, 68, 68, 0.5);
   border-radius: 0.5rem;
@@ -335,18 +332,17 @@ body {
   height: 400px;
 }
 
-
 .detail-portofolio .card-body {
   padding: 2rem;
   display: flex;
 }
 
-.card .card-body img{
+.card .card-body img {
   height: 28.5rem;
   margin-right: 4rem;
 }
 
-.card .card-body .container-detail{
+.card .card-body .container-detail {
   max-width: 500px;
 }
 
@@ -355,10 +351,10 @@ body {
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 1rem;
-  font-family: 'Inknut Antiqua', sans-serif;
+  font-family: "Inknut Antiqua", sans-serif;
 }
 
-.card .card-detail td{
+.card .card-detail td {
   text-align: left;
   vertical-align: top;
 }
@@ -368,8 +364,6 @@ body {
   margin-top: 0.5rem;
   text-align: justify;
 }
-
-
 
 /* Footer */
 footer {
@@ -426,6 +420,7 @@ footer .credit a {
   html {
     font-size: 62.5%;
   }
+
   #hamburger-menu {
     display: inline-block;
   }
@@ -452,28 +447,38 @@ footer .credit a {
     font-size: 2rem;
   }
 
-  .navbar .navbar_nav a::after {
-    transform-origin: 0 0;
-  }
-
-  .navbar .navbar_nav a:hover:after {
-    transform: scaleX(0.2);
-  }
-
   .navbar .search-form {
     width: 90%;
     right: 2rem;
   }
 
+  /* HERO */
+  .hero .content h1 {
+    font-size: 3rem;
+  }
+
+  .hero .content p {
+    width: 100%;
+    max-width: 100%;
+    font-size: 1.2rem;
+  }
+
+  /* ABOUT */
   .about .row {
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .about .row .about-img {
+    margin-right: 0;
+    margin-bottom: 2rem;
   }
 
   .about .row .about-img img {
-    height: 24rem;
-    object-fit: cover;
-    object-position: center;
     width: 100%;
+    max-width: 300px;
+    height: auto;
   }
 
   .about .row .content {
@@ -487,6 +492,18 @@ footer .credit a {
 
   .about .row .content p {
     font-size: 1.2rem;
+  }
+
+  /* PROJECT & ACHIEVEMENT */
+  .portofolio .row,
+  .achievement .row {
+    grid-template-columns: 1fr;
+  }
+
+  .portofolio .row img,
+  .achievement .row img {
+    width: 100% !important;
+    height: auto !important;
   }
 }
 
