@@ -104,11 +104,7 @@ $(document).ready(function () {
             <div class="row mb-5 gx-5">
 
               <div class="col">
-                <div id="carousel${index}"
-                    class="carousel slide"
-                    data-bs-ride="carousel"
-                    data-bs-interval="2000"
-                    >
+                <div id="carousel${index}" class="carousel slide">
 
                   <div class="carousel-inner">
 
