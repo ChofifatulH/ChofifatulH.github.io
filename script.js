@@ -44,8 +44,9 @@ $(document).ready(function () {
     var typed = new Typed(".element", {
       strings: [
         "Hello, I am Chofi",
-        "I am Web Developer",
-        "Wellcome to My Portofolio",
+        "Software Developer",
+        "AI and Data Enthusiast",
+        "Turning Ideas into Technology",
       ],
       smartBackspace: true,
       typeSpeed: 100,
