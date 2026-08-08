@@ -232,12 +232,12 @@ body {
 
   transition: all 0.3s ease;
 }
-/* .about .row .about-img img:hover {
+.about .row .about-img img:hover {
   transform: scale(1.05);
   box-shadow:
     0 15px 35px rgba(0, 0, 0, 0.4),
     0 0 80px rgba(255, 210, 80, 0.5);
-} */
+}
 
 .about .row .content {
   flex: 1 1 35rem;
