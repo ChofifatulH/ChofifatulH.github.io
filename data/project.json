@@ -1,42 +1,125 @@
 [
   {
-    "title": "CTO di Pra-Startup Litera Luhur (2024-Sekarang)",
-    "image": "img/lilu.png",
-    "description": "Sebagai CTO di Litera Luhur, sebuah pra-startup inovatif, saya bertanggung jawab penuh dalam menangani pengembangan dan pengelolaan website perusahaan yang berbasis Laravel. Dalam peran ini, saya memimpin strategi teknologi untuk memastikan platform digital kami tidak hanya memenuhi standar industri, tetapi juga memberikan pengalaman pengguna yang optimal."
+    "title": "A Multimodal Graph Neural Network for Multiclass ADHD and ASD Classification with Leakage-Aware Evaluation (2025-2026)",
+    "description": "Merancang, mengembangkan, dan mengevaluasi framework Multimodal Graph Neural Network (GNN) untuk klasifikasi multikelas Attention Deficit Hyperactivity Disorder (ADHD), Autism Spectrum Disorder (ASD), dan Healthy Control (HC) menggunakan data neuroimaging multimodal. Penelitian berfokus pada pengembangan model yang lebih andal melalui penerapan leakage-aware evaluation untuk memastikan hasil evaluasi yang objektif dan dapat digeneralisasi.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [
+      "1. Merancang framework klasifikasi multimodal yang mengintegrasikan data rs-fMRI, sMRI, dan data demografis menggunakan Graph Neural Network.", 
+      "2. Mengembangkan pipeline preprocessing, seleksi fitur, konstruksi graf, dan model klasifikasi untuk membedakan ADHD, ASD, dan Healthy Control (HC).",
+      "3. Membandingkan performa model pada berbagai skenario evaluasi, termasuk pendekatan konvensional dan leakage-aware evaluation, untuk menganalisis pengaruh data leakage terhadap hasil klasifikasi.",
+      "4. Mengevaluasi model menggunakan metrik Accuracy, Macro F1-Score, Precision, Recall, dan AUC, serta membandingkan hasil dengan penelitian terdahulu."],
+    "images": [
+      "img/ta1.png", "img/ta2.png", "img/ta3.png",
+      "img/ta4.png"]
   },
   {
-    "title": "Monitoring Vegetasi Tumbuhan",
-    "image": "img/vegetasi.png",
-    "description": "Saya memiliki pengalaman dalam mengembangkan sistem monitoring vegetasi tumbuhan berbasis Laravel, sebuah framework PHP yang andal dan fleksibel. Proyek ini bertujuan untuk menyediakan platform digital yang memungkinkan pengguna memantau pertumbuhan dan kesehatan vegetasi secara real-time."
+    "title": "Asisten Praktikum - Fakultas Teknologi Informasi dan Sains Data, Universitas Sebelas Maret (2024–2026)",
+    "description": "Menjadi Asisten Praktikum pada Program Studi Informatika, Fakultas Teknologi Informasi dan Sains Data, Universitas Sebelas Maret untuk mendukung kegiatan pembelajaran praktikum dan membimbing mahasiswa dalam memahami konsep serta implementasi materi perkuliahan.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [
+      "1. Menjadi asisten praktikum pada mata kuliah Rekayasa Perangkat Lunak, Jaringan Komputer (Semester Genap 2024/2025), dan Metode Numerik (Tahun Akademik 2025/2026).", 
+      "2. Membimbing mahasiswa selama kegiatan praktikum serta membantu memahami konsep dan implementasi materi.",
+      "3. Membantu dosen dalam mempersiapkan modul, pelaksanaan praktikum, serta evaluasi tugas dan hasil praktikum.",
+      "4. Memberikan pendampingan kepada mahasiswa dalam menyelesaikan permasalahan teknis selama praktikum."],
+    "images": [
+      "img/aslab2.png", "img/aslab1.png", "img/aslab3.png",
+      "img/aslab4.png", "img/aslab5.png", "img/aslab6.png", "img/aslab7.png"]
   },
   {
-    "title": "Monitoring Kapal secara Real Time",
-    "image": "img/monitoringASV.png",
-    "description": "Saya memiliki pengalaman dalam mengembangkan website monitoring kapal Autonomous Surface Vehicle (ASV) berbasis PHP, yang dirancang untuk memantau kondisi kapal secara realtime menggunakan teknologi Internet of Things (IoT). Sistem ini bertujuan untuk memberikan informasi langsung mengenai status kapal ASV, seperti lokasi, kecepatan, arah, dan kondisi sensor lainnya, yang dapat diakses melalui platform berbasis web."
+    "title": "Programmer Tim Autonomous Surface Vehicle UNS (2024-2025)",
+    "description": "Berkontribusi dalam pengembangan perangkat lunak Autonomous Surface Vehicle (ASV) yang mampu menjalankan misi secara mandiri di lingkungan perairan. Berfokus pada pengembangan sistem persepsi dan navigasi otonom dengan memanfaatkan visi komputer dan data sensor.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [
+      "1. Mengembangkan model object detection menggunakan YOLO untuk mendeteksi kapal dan rintangan sebagai masukan bagi sistem navigasi otonom.", 
+      "2. Merancang algoritma navigasi yang mengintegrasikan data kamera dan GPS sehingga ASV dapat mengikuti waypoint, menghindari rintangan, dan menyelesaikan misi secara otomatis.",
+      "3. Mengimplementasikan logika pengambilan keputusan untuk mengontrol pergerakan kapal berdasarkan hasil deteksi visual dan posisi GPS secara real-time.",
+      "4. Melakukan integrasi modul persepsi, navigasi, dan kontrol agar seluruh sistem bekerja secara terkoordinasi selama pelaksanaan misi."],
+    "images": [
+      "img/kki5.png", "img/kki6.png", "img/KKI.jpg",  "img/kki14.png", 
+      "img/kki7.png","img/kki8.png", "img/kki9.png", "img/kki13.png", 
+      "img/kki10.png","img/kki11.png"]
   },
   {
-    "title": "MSIB di Google Bangkit",
-    "image": "img/msib.png",
-    "description": "Saya berkesempatan menjadi bagian dari program Merdeka Belajar Kampus Merdeka (MBKM) melalui MSIB (Magang dan Studi Independen Bersertifikat) di bidang Machine Learning yang diselenggarakan oleh Google Bangkit. Program ini memberikan pengalaman belajar mendalam tentang pengembangan solusi berbasis kecerdasan buatan dan pembelajaran mesin, yang relevan dengan kebutuhan industri."
+    "title": "Hibah MBKM UNS - Aplikasi DentAsist (2025)",
+    "description": "Berkontribusi dalam pengembangan aplikasi Android berbasis Artificial Intelligence (AI) untuk membantu deteksi penyakit gigi melalui analisis citra. Berfokus pada pengembangan model deep learning dan integrasinya ke dalam aplikasi agar proses deteksi dapat dilakukan secara cepat dan mudah di perangkat seluler.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [
+      "1. Mengembangkan model klasifikasi citra berbasis Convolutional Neural Network (CNN) untuk mendeteksi penyakit gigi dari gambar.",
+      "2. Melatih, mengevaluasi, dan mengoptimalkan performa model agar menghasilkan prediksi yang akurat.",
+      "3. Mengintegrasikan model AI ke dalam aplikasi Android DentAssist sehingga pengguna dapat melakukan deteksi langsung melalui perangkat mobile.",
+      "4. Berkolaborasi dalam pengembangan alur aplikasi untuk menghubungkan proses inferensi model dengan antarmuka pengguna."
+    ],
+    "images": ["img/DA1.png", "img/DA2.png", "img/DA3.png"]
   },
   {
-    "title": "Aplikasi Berbasis AI",
-    "image": "img/aplikasi_gigi.png",
-    "description": "Saya memiliki pengalaman dalam mengembangkan aplikasi berbasis Artificial Intelligence (AI) untuk deteksi penyakit pada gigi. Proyek ini bertujuan untuk membantu profesional di bidang kesehatan gigi dalam mendiagnosis kondisi gigi secara lebih cepat dan akurat, serta memberikan rekomendasi perawatan yang tepat."
+    "title": "IT Intern - Solo Technopark (2025)",
+    "description": "Berkontribusi dalam pengembangan dan pemeliharaan berbagai sistem informasi di Solo Technopark selama program magang. Terlibat dalam aktivitas bug fixing, pengujian sistem, pengembangan antarmuka pengguna, implementasi API, serta kegiatan berbagi pengetahuan di bidang pemrograman.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [
+      "1. Melakukan bug fixing dan pemeliharaan pada sistem Solo Technopark Finance Analyzer untuk meningkatkan stabilitas dan fungsionalitas aplikasi.",
+      "2. Melaksanakan pengujian (testing) sistem guna memastikan fitur berjalan sesuai kebutuhan dan meminimalkan potensi kesalahan.",
+      "3. Mengembangkan antarmuka pengguna (UI) dan implementasi frontend untuk Dashboard Magang.",
+      "4. Mengembangkan REST API menggunakan Laravel sebagai backend untuk sistem kuis Solo Technopark.",
+      "5. Berpartisipasi dalam kegiatan knowledge sharing dengan memberikan pelatihan dasar pengembangan game kepada siswa SMA Regina Pacis yang berkunjung ke Solo Technopark."
+    ],
+    "images": ["img/magang1.png", "img/magang2.png", "img/magang3.png", "img/magang4.png", "img/magang5.png", "img/magang6.png"]
   },
   {
-    "title": "Programmer Tim Autonomous Surface Vehicle (ASV)",
-    "image": "img/bengawan.jpg",
-    "description": "Saya memiliki pengalaman dalam pengembangan perangkat lunak untuk kapal Autonomous Surface Vehicle (ASV), sebuah teknologi otonom yang dirancang untuk operasi di permukaan air. Dalam peran ini, saya bertanggung jawab pada berbagai aspek pemrograman yang mendukung navigasi, kontrol, dan fungsi otonom kapal ASV."
+    "title": "MSIB Google Bangkit – Machine Learning Cohort (2024)",
+    "description": "Mengikuti program Bangkit Academy 2024 melalui skema Magang dan Studi Independen Bersertifikat (MSIB) dengan fokus pada bidang Machine Learning. Mempelajari konsep dasar hingga lanjutan dalam pengembangan solusi berbasis kecerdasan buatan, mulai dari pengolahan data, pembangunan model machine learning dan deep learning, hingga implementasi model untuk menyelesaikan permasalahan nyata.",
+    "titleSchema": "Kompetensi yang Dipelajari",
+    "constribution": [
+      "1. Mempelajari dasar-dasar Machine Learning, Deep Learning, dan Artificial Intelligence.",
+      "2. Mengembangkan model menggunakan TensorFlow untuk tugas klasifikasi dan prediksi.",
+      "3. Melakukan data preprocessing, feature engineering, pelatihan, dan evaluasi model.",
+      "4. Menerapkan praktik pengembangan Machine Learning sesuai standar industri melalui proyek kolaboratif."
+    ],
+    "images": ["img/msib1.png", "img/msib2.png", "img/msib3.png"]
   },
   {
-    "title": "Mengembangkan Game Fly-UP",
-    "image": "img/game.png",
-    "description": "Saya mengembangkan sebuah game Fly-Up menggunakan bahasa pemrograman Java, yang kemudian saya unggah di platform Greenfoot untuk mempermudah akses dan berbagi dengan komunitas. Game ini bertujuan untuk memberikan pengalaman interaktif yang menyenangkan dengan konsep permainan yang sederhana namun menantang. Dalam game ini, pemain mengendalikan karakter yang harus terbang ke atas sambil menghindari rintangan dan mengumpulkan poin."
+    "title": "Monitoring Kapal secara Real-Time (2024)",
+    "description": "Mengembangkan aplikasi web berbasis PHP untuk memantau kondisi Autonomous Surface Vehicle (ASV) secara real-time. Sistem dirancang untuk menerima data telemetri yang dikirim dari kapal melalui teknologi Internet of Things (IoT), kemudian mengolah dan menampilkan informasi operasional secara langsung melalui antarmuka web.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution":[
+      "1. Mengembangkan aplikasi web menggunakan PHP untuk menerima dan menampilkan data telemetri kapal secara real-time.",
+      "2. Mengimplementasikan komunikasi data antara ASV dan server sehingga informasi dapat diperbarui secara langsung.",
+      "3. Menampilkan informasi operasional seperti lokasi, kecepatan, arah, dan status sensor melalui dashboard monitoring.",
+      "4. Mengembangkan antarmuka monitoring yang memudahkan pengguna dalam memantau kondisi kapal selama menjalankan misi."
+    ],
+    "images": ["img/monitoringASV.png", "img/kki3.png", "img/kki4.png"]
   },
   {
-    "title": "Merancang Database berbasis SQL",
-    "image": "img/dbs.png",
-    "description": "Saya memiliki pengalaman dalam pengembangan sistem database peradilan menggunakan SQL Server. Proyek ini bertujuan untuk menyediakan solusi manajemen data yang efisien dan terstruktur untuk mendukung operasional lembaga peradilan, termasuk pengelolaan kasus hukum, data pihak terkait, dan riwayat persidangan."
+    "title": "CTO di Pra-Startup Litera Luhur (2024)",
+    "description": "Berkontribusi dalam pengembangan platform web Litera Luhur sebagai bagian dari tim teknologi pada tahap pra-startup. Berperan dalam pengembangan fitur aplikasi berbasis Laravel serta memberikan masukan teknis dan strategis untuk mendukung pengembangan produk yang sesuai dengan kebutuhan pengguna.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [
+      "1. Berkontribusi dalam pengembangan website menggunakan framework Laravel.",
+      "2. Berkolaborasi dengan tim untuk merancang dan mengembangkan fitur-fitur produk.",
+      "3. Memberikan masukan terhadap pengembangan produk, termasuk aspek fungsionalitas, pengalaman pengguna, dan implementasi teknis.",
+      "4. Mendukung pengambilan keputusan terkait arah pengembangan teknologi pada tahap awal pengembangan startup."
+    ],
+    "images": ["img/lilu.png", "img/lilu3.png", "img/lilu2.png"]
+  },
+  {
+    "title": "Perancangan Database Pengadilan Berbasis SQL (2023)",
+    "description": "Mengembangkan sistem basis data untuk mendukung pengelolaan informasi pada lingkungan pengadilan berdasarkan hasil analisis kebutuhan yang diperoleh melalui wawancara dengan narasumber berlatar belakang Sarjana Hukum. Proyek berfokus pada perancangan struktur database yang mampu mengelola data perkara secara terintegrasi dan efisien.",
+    "titleSchema":"Kontribusi Utama",
+    "constribution": [
+      "1. Melakukan analisis kebutuhan sistem berdasarkan hasil wawancara dengan narasumber berlatar belakang Sarjana Hukum.",
+      "2. Merancang skema basis data yang mencakup entitas, relasi, dan normalisasi untuk mendukung pengelolaan data pengadilan.",
+      "3. Mengimplementasikan basis data menggunakan SQL Server serta menyusun query untuk pengelolaan dan pengambilan data."
+    ],
+    "images": ["img/dbs.png"]
+  },
+  {
+    "title": "Game Fly-UP (2023)",
+    "description": "Berkontribusi dalam pengembangan game Fly-Up berbasis Java menggunakan Greenfoot. Berperan dalam implementasi fitur permainan, pengembangan logika game, serta memberikan masukan terhadap penyempurnaan mekanisme permainan dan pengalaman pengguna sebelum game dipublikasikan.",
+    "titleSchema": "Kontribusi Utama",
+    "constribution": [     
+      "1. Mengembangkan program game menggunakan Java pada framework Greenfoot.",
+      "2. Mengimplementasikan mekanisme permainan, termasuk kontrol karakter, sistem rintangan, dan perhitungan skor.",
+      "3. Memberikan masukan terhadap pengembangan gameplay dan penyempurnaan fitur untuk meningkatkan pengalaman bermain."
+    ],
+    "images": ["img/game0.png", "img/game1.png", "img/game2.png"]
   }
 ]

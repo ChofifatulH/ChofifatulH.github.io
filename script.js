@@ -99,21 +99,68 @@ $(document).ready(function () {
       .then((data) => {
         console.log(data);
 
-        data.forEach((item) => {
+        data.forEach((item, index) => {
           containerProject.innerHTML += `
-            <div class="row mb-5">
+            <div class="row mb-5 gx-5">
 
               <div class="col">
-                <img 
-                  src="${item.image}" 
-                  class="img-fluid rounded"
-                  style="width: 600px; height: auto;"
-                >
+                <div id="carousel${index}"
+                    class="carousel slide"
+                    data-bs-ride="carousel"
+                    data-bs-interval="2000"
+                    >
+
+                  <div class="carousel-inner">
+
+                    ${item.images
+                      .map(
+                        (img, i) => `
+                      <div class="carousel-item ${i === 0 ? "active" : ""}">
+                        <img
+                          src="${img}"
+                          class="img-fluid rounded h-100"
+                          style="object-fit:contain; object-position:top;"
+                        >
+                      </div>
+                    `,
+                      )
+                      .join("")}
+
+                  </div>
+
+                  <button class="carousel-control-prev"
+                          type="button"
+                          data-bs-target="#carousel${index}"
+                          data-bs-slide="prev">
+
+                    <span class="carousel-control-prev-icon"></span>
+
+                  </button>
+
+                  <button class="carousel-control-next"
+                          type="button"
+                          data-bs-target="#carousel${index}"
+                          data-bs-slide="next">
+
+                    <span class="carousel-control-next-icon"></span>
+
+                  </button>
+                </div>
               </div>
 
               <div class="col">
                 <h3>${item.title}</h3>
                 <p>${item.description}</p>
+                <h5>${item.titleSchema}</h5>
+                
+                ${item.constribution
+                    .map(
+                      (cons, i) =>`
+                    <p>${cons}</p>
+                  `,
+                )
+                .join("")}
+                
               </div>
 
             </div>

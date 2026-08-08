@@ -1,22 +1,42 @@
 [
   {
-    "title": "Juara 1, Pembuatan Dan Performa Prototype Autonomous Surface Vessel (ASV) 2024",
-    "image": "img/KKI.jpg",
-    "description": "Saya merasa bangga dapat meraih Juara 1 dalam Lomba KKI 2024 pada kategori Pembuatan Dan Performa Prototype Autonomous Surface Vessel."
+    "title": "International Journal Publication (Scopus Q3) (2026)",
+    "image": "img/ta1.png",
+    "description": "Berhasil menerbitkan artikel ilmiah pada jurnal internasional bereputasi terindeks Scopus Q3 melalui penelitian mengenai Multimodal Graph Neural Network dengan pendekatan leakage-aware untuk klasifikasi ADHD dan ASD."
   },
   {
-    "title": "Best Funrace, Pembuatan dan Performa Prototype Autonomous Surface Vessel (ASV) 2024",
-    "image": "img/KKI2.png",
-    "description": "Saya sangat bangga dapat meraih penghargaan Best Funrace dalam Lomba KKI 2024."
+    "title": "BNSP Certified Programmer",
+    "image": "img/acv5.png",
+    "description": "Memperoleh Sertifikat Kompetensi BNSP sebagai Programmer, yang mengakui kompetensi profesional di bidang pemrograman sesuai Standar Kompetensi Kerja Nasional Indonesia (SKKNI)."
+  },
+  {
+    "title": "Juara 1 – Business Case Competition Exsum Fair x Business Festival 2025",
+    "image": "img/acv4.png",
+    "description": "Berkolaborasi dalam tim untuk meraih Juara 1 pada kategori Business Case di Business Competition Exsum Fair Vol. 3 x Business Festival 2025 melalui penyelesaian studi kasus bisnis dengan pendekatan strategis dan berbasis data."
+  },
+  {
+    "title": "Juara 1 – Pembuatan dan Performa Prototype Autonomous Surface Vessel (ASV)",
+    "image": "img/acv1.png",
+    "description": "Berkontribusi sebagai programmer Tim Autonomous Surface Vehicle Universitas Sebelas Maret yang berhasil meraih Juara 1 pada kategori Pembuatan dan Performa Prototype Autonomous Surface Vessel (ASV) dalam Kontes Kapal Indonesia (KKI) 2024 tingkat nasional."
+  },
+  {
+    "title": "Juara Fun Race – Kontes Kapal Indonesia (KKI) 2024",
+    "image": "img/acv2.png",
+    "description": "Meraih Juara Fun Race pada divisi Autonomous Surface Vessel (ASV) dalam Kontes Kapal Indonesia (KKI) 2024 tingkat nasional atas performa terbaik prototype kapal otonom."
+  },
+  {
+    "title": "Bangkit Academy 2024 – Machine Learning (Distinction Graduate)",
+    "image": "img/acv3.png",
+    "description": "Meraih predikat Distinction Graduate pada Bangkit Academy 2024 spesialisasi Machine Learning setelah menyelesaikan pelatihan intensif yang mencakup machine learning, deep learning, pengembangan model AI, serta implementasi proyek berbasis industri."
   },
   {
     "title": "Hak Cipta Kartu Memori Budaya Nusantara",
     "image": "img/HKI.png",
-    "description": "Saya merasa terhormat memiliki hak cipta atas proyek Kartu Memori Budaya Nusantara."
+    "description": "Berhasil memperoleh Hak Cipta atas Kartu Memori Budaya Nusantara, sebuah media edukasi interaktif hasil Program Litera Luhur yang dirancang untuk meningkatkan literasi dan apresiasi terhadap keberagaman budaya Nusantara."
   },
   {
     "title": "Best Staff Naval 2024",
-    "image": "img/BestStaf.png",
-    "description": "Saya sangat bangga atas pencapaian saya sebagai Best Staff di Divisi Naval 2024."
+    "image": "img/acv6.jpeg",
+    "description": "Meraih penghargaan Best Staff Divisi Naval 2024 sebagai bentuk pengakuan atas dedikasi, kepemimpinan, dan kontribusi dalam mendukung pengembangan divisi serta keberhasilan pelaksanaan berbagai program kerja."
   }
 ]
